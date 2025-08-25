@@ -23,13 +23,13 @@ public class PrintPaintedArea
 		ld=sc.nextFloat();
 
 		System.out.println("Enter the breadth door");
-		hd=sc.nextFloat();
+		bd=sc.nextFloat();
 
 		System.out.println("Enter the length window");
 		lw=sc.nextFloat();
 
 		System.out.println("Enter the breadth window");
-		hw=sc.nextFloat();
+		bw=sc.nextFloat();
 
 		areaOfRoom=2 * h * (l + b);
 
